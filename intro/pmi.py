@@ -26,3 +26,4 @@ mask = pmi(params)
 for key, val in mask.items() :
     print(key, "판매처에 마스크가 ", val, "개 있습니다.")
     print(f"{key}판매처에 마스크가 {val} 개 있습니다.")
+    
